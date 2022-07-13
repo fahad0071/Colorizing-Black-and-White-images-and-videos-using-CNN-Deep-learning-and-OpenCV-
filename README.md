@@ -22,3 +22,20 @@ generated and ground truth color image. Our method successfully fools humans on
 32% of the trials, significantly higher than previous methods. Moreover, we show
 that colorization can be a powerful pretext task for self supervised feature learning,
 acting as a cross-channel encoder. 
+
+
+
+![](image/Picture1.png)
+
+### Results:
+
+
+
+
+![](image/Picture2.png)
+
+### Reference:
+This project is based on Richard Zhang, Phillip Isola, and Alexei A. Efros' research at the University of California, Berkeley. Colorful Image Colorization. (https://arxiv.org/pdf/1603.08511.pdf).
+
+### Conclusion:
+While colorizing images and videos is a specialized form of graphics work, it is also a difficult problem in computer vision. Here we have shown that using a deep neural network (DNN) can produce results that are indistinguishable from real color photos and videos.
